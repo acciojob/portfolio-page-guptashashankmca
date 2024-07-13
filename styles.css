@@ -31,3 +31,6 @@ section code{
 	display:center;
 	justify-content:center;
 }
+#project{
+	border:1px solid blue;
+}
